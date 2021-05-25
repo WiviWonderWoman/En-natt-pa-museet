@@ -1,5 +1,5 @@
-# en-natt-pa-museet - Objektorienterad programmering med C# - december 2020
-## Inlämningsuppgift i Praktiskt projektarbete och sammanfattning
+# en-natt-pa-museet 
+## Inlämningsuppgift i  Objektorienterad programmering med C# - december 2020
 100/100 (VG)
 ### Scenario
 Du jobbar i det här scenariot som frilansande programmerare år 1979 och har fått ett uppdrag att göra en virtualisering/digitalisering av ett konstmuseum som ska vara användbart från en splirrans ny datorterminal som kommer stå i museets entré. Man ska därför i ett konsolprogram kunna vandra runt i museumets olika rum och få beskrivningar av konstverken i det rummet. Konstmuseumets personal är väldigt positivt inställda och nyfikna på din idé och framtida lösning, och räknar med att detta kommer vara en stor publikdragare!
