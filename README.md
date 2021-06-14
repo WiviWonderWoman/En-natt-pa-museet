@@ -1,7 +1,7 @@
 # En natt på museet 
 ## Syfte
 Inlämningsuppgift i kursen Objektorienterad programmering med C#, Webbutvecklare inom .NET, YH-utbildning - november 2020
-* 100/100 (VG)
+* 94/100 (VG)
 ## Tekniker
 * .NET Core 
 * .NET core CLI
